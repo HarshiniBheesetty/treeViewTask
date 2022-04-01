@@ -37,6 +37,7 @@ function nestItems(Data, listContainer) {
   return listContainer;
 }
 
+//api call to get data from local file
 fetch('data.json').then(response=>{
     return response.json()
 }).then(function(data){
