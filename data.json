@@ -1,0 +1,524 @@
+[
+    {
+      "name": "Content-Server",
+      "children": [
+        {
+          "name": "1809-On Premise",
+          "children": [
+            {
+              "name": "1809 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 1809 Tutorials",
+                  "children": [
+                    {
+                      "name": "1809 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1809 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1809 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1809 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1809 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 1809 Repository",
+                  "children": [
+                    {
+                      "name": "1809 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1809 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1809 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1809 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1909-On Premise",
+          "children": [
+            {
+              "name": "1909 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 1909 Tutorials",
+                  "children": [
+                    {
+                      "name": "1909 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1909 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1909 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1909 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1909 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 1909 Repository",
+                  "children": [
+                    {
+                      "name": "1909 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1909 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1909 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1909 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2005-Cloud",
+          "children": [
+            {
+              "name": "2005 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2005 Tutorials",
+                  "children": [
+                    {
+                      "name": "2005 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2005 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2005 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2005 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2005 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2005 Repository",
+                  "children": [
+                    {
+                      "name": "2005 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2005 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2005 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2005 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1709 - On Premise",
+          "children": [
+            {
+              "name": "1709 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 1709 Tutorials",
+                  "children": [
+                    {
+                      "name": "1709 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1709 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1709 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "1709 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1709 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 1709 Repository",
+                  "children": [
+                    {
+                      "name": "1709 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1709 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1709 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "1709 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2020 - On Premise",
+          "children": [
+            {
+              "name": "2020 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2020 Tutorials",
+                  "children": [
+                    {
+                      "name": "2020 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2020 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2020 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2020 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2020 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2020 Repository",
+                  "children": [
+                    {
+                      "name": "2020 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2020 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2020 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2020 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2011 - Cloud",
+          "children": [
+            {
+              "name": "2011 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2011 Tutorials",
+                  "children": [
+                    {
+                      "name": "2011 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2011 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2011 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2011 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2011 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2011 Repository",
+                  "children": [
+                    {
+                      "name": "2011 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2011 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2011 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2011 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2102 - Cloud",
+          "children": [
+            {
+              "name": "2102 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2102 Tutorials",
+                  "children": [
+                    {
+                      "name": "2102 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2102 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2102 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2102 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2102 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2102 Repository",
+                  "children": [
+                    {
+                      "name": "2102 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2102 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2102 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2102 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SAP Analytics Cloud 2105 Library",
+          "children": [
+            {
+              "name": "2105 Tutorials Library",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2105 Tutorials",
+                  "children": [
+                    {
+                      "name": "2105 Getting Started Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2105 Task Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2105 Implementation and Configuration Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Tutorials",
+                      "children": []
+                    },
+                    {
+                      "name": "2105 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2105 Tutorials Repository",
+              "children": [
+                {
+                  "name": "SAP S/4HANA 2105 Repository",
+                  "children": [
+                    {
+                      "name": "2105 Getting Started Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2105 Task Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2105 Implementation and Configuration Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "Translation Versions Repository",
+                      "children": []
+                    },
+                    {
+                      "name": "2105 Customer Survey",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
